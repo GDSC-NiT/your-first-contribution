@@ -5,4 +5,4 @@
 | Rajdip Bhattacharya | CSE | 3nd Year|
 | Hritik Verma | CSE | 3rd Year |
 | Sourodip Kar|  CSE(AI&ML) | 2nd Year|
-
+| SAMBIT CHAKRABORTY|  IT | 2nd Year|
