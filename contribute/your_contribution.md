@@ -3,4 +3,6 @@
 |:---:|:---:|:---:|
 | Sawan Bhattacharya | CSE(AI&ML) | 2nd Year| 
 | Rajdip Bhattacharya | CSE | 3nd Year|
+| Hritik Verma | CSE | 3rd Year |
 | Sourodip Kar|  CSE(AI&ML) | 2nd Year|
+
